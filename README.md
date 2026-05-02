@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# jakubbuj / README.md
 
 ## About
 
-Data Science & AI student @ Maastricht University (graduating June 2026). Backend enthusiast, ML tinkerer, and Cracow returnee. More info [here](https://github.com/jakubbuj). Fluent in Polish, English and German.
+3rd-year Data Science & AI student @ Maastricht University. Solid Java & Python skills, Into ML and AI. Fluent in Polish, English and German.
 
 ## Find me
 
@@ -32,7 +31,6 @@ Data Science & AI student @ Maastricht University (graduating June 2026). Backen
 ### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,7 +39,6 @@ Data Science & AI student @ Maastricht University (graduating June 2026). Backen
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Backend & APIs
