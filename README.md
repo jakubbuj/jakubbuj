@@ -15,18 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-## About
-
-3rd-year Data Science & AI student @ Maastricht University. Solid Java & Python skills, Into ML and AI. Fluent in Polish, English and German.
-
-## Find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jakubbuj)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jakubbuj)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakubbuj04@gmail.com)
-
-## Stack
-
 ### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
